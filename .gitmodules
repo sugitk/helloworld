@@ -1,0 +1,3 @@
+[submodule "helloworld_tasks"]
+	path = helloworld_tasks
+	url = git@github.com:sugitk/helloworld_tasks.git
